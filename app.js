@@ -1,3 +1,4 @@
+//　選んだものをデータに変換
 function janken(choice) {
     let resultElement = document.getElementById("ResultMessage");
     let PlayersChoiceElement = document.getElementById("PlayersChoice");
