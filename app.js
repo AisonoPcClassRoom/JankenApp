@@ -13,6 +13,7 @@ function janken(choice) {
     resultElement.innerHTML = Judgement(choice, PCsChoiceNumber);
 }
 
+// 画像を選択
 function Num2Synbol(choice)
 {
     let symbol = "";
